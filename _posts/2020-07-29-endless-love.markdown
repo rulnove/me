@@ -1,16 +1,16 @@
 ---
-title: ": Endless Love"
+title: "Endless Love"
 layout: post
-date: 2020-07-30 20:10
-tag: blog
-image: https://rulnoveid.github.io/about/assets/images/gambar1.png
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
+date: 2020-07-30 21:00
+image: /assets/images/gambar1.png
+headerImage: false
+tag:
+- love
+- true
+- false
+category: blog
 author: mhmdsahrudin
-externalLink: false
+description: Markdown summary with different options
 ---
 
 ![Markdowm Image][/image/gambar1.png]

@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: mhmdsahrudin
-# instagram: myinstagram
+instagram: mhmdsahrudin
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
+youtube: www.youtube.com/channel/UCpvPhD5B3Jq5LehAlih-xsg
 # spotify: myspotify
 github: rulnove
 # gitlab: mygitlab
@@ -47,7 +47,7 @@ github: rulnove
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: rul@inputekno.com

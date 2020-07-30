@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://https://rulnove.github.io/
+url: https://https://rulnove.github.io
 # your url: https://rulnove.github.io
 
 permalink: /:title/

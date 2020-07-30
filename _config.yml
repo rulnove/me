@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Muhamad Sahrudin
+bio: Keep Reading and Keep Working
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,16 +55,16 @@ email: myemail@gmail.com
 authors:
   johndoe:
     name: Muhamad Sahudin
-    bio: A Man who travels the world eating noodles
+    bio: Keep Reading and Keep Working
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: mhmdsahrudin
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name: Muhamad Sahrudin
+    bio: Keep Reading and Keep Working
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: mhmdsahrudin
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

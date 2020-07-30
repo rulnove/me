@@ -1,7 +1,7 @@
 ---
 title: ": Endless Love"
 layout: post
-date: 2020-07-30 22:10
+date: 2020-07-30 20:10
 tag: blog
 image: https://rulnoveid.github.io/about/assets/images/gambar1.png
 headerImage: true
@@ -13,7 +13,7 @@ author: mhmdsahrudin
 externalLink: false
 ---
 
-![Markdowm Image][/image/foto-1.jpg]
+![Markdowm Image][/image/gambar1.png]
 <figcaption class="caption">Photo by @mhmdsahrudin</figcaption>
 <br/>
 

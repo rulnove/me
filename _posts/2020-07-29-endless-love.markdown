@@ -1,7 +1,7 @@
 ---
 title: "Endless Love"
 layout: post
-date: 2020-07-30 21:00
+date: 2020-07-30 20.30
 image: /assets/images/gambar1.png
 headerImage: false
 tag:
